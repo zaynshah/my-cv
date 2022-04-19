@@ -1,1 +1,3 @@
-# my cv
+# CV
+
+Hey, Thanks for checking out my CV
